@@ -4,14 +4,11 @@ A project that implements image morphing techniques to create smooth transitions
 
 📌 Examples
 
-1️⃣ Face Morphing (Manual Tie Points)
+1️⃣ Face Morphing (Manual Tie Points)  
+![Face Morphing (Manual Tie Points)](output.gif)
 
-![](Image-Morphing/output.gif)
+2️⃣ Face Morphing (Dlib-Generated Tie Points)  
+![Face Morphing (Dlib-Generated Tie Points)](output1.gif)
 
-2️⃣ Face Morphing (Dlib-Generated Tie Points)
-
-![](Image-Morphing/output1.gif)
-
-3️⃣ Tiger to Human Morphing (Manual Tie Points)
-
-![](Image-Morphing/output_hum_2_tiger.gif)
+3️⃣ Tiger to Human Morphing (Manual Tie Points)  
+![Tiger to Human Morphing (Manual Tie Points)](output_hum_2_tiger.gif)
